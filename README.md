@@ -16,4 +16,4 @@ How to Download & Play:
 
 4. Locate the ZIP file in your downloads folder, and click on the "Obstacle Course Game" folder. This will add all the assets of the game into the project that you're adding. 
 
-5. When the process is done, the game will open. Once you hit the 'Play' button, you can begin to play the game. 
+5. When the download process is complete, the game will open. Once you hit the 'Play' button, you can start playing. 
