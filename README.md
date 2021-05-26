@@ -12,7 +12,7 @@ How to Download & Play:
 
 2. Next, download the code from this repository as a ZIP file. 
 
-3. Open up 'Unity' on your computer, and click 'Add' (which will direct you add a project from your computer). 
+3. Open up 'Unity' on your computer, and click 'Add' (which will direct you add a file from your computer). 
 
 4. Locate the ZIP file in your downloads folder, and click on the "Obstacle Course Game" folder. This will add all the assets of the game into the project that you're adding. 
 
