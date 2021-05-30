@@ -6,7 +6,20 @@ To play, simply shift your player right and left by hitting the 'A' and 'D' keys
 Have fun & enjoy!
 
 
-How to Download & Play: 
+
+# How to Play:
+
+1. Use this link to open the game into a web browser: http://localhost:59714
+
+2. It may take a few seconds to load, but once it does, the game will imeediately start running. 
+
+3. Refreshing the tab will restart the game to level one. 
+
+4. Enjoy!
+
+
+
+# How to Download and Make Changes:
 
 1. Download the Unity Hub and engine from https://unity.com/. You'll need to create an account to get started.
 
@@ -21,4 +34,3 @@ How to Download & Play:
 6. Save a copy of the game for yourself, and make whatever adjustments you wish!
 
 
-NOTE: With some extra steps, I probably can get this to work as a standalone game, but I'm still not sure how to do that yet. 
