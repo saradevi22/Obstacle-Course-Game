@@ -7,16 +7,13 @@ Have fun & enjoy!
 
 
 
-# How to Play:
+# How to Download and Play:
 
-1. Use this link to open the game into a web browser: http://localhost:59714
+1. If your computer runs MacOS, download and uncompress the ZIP file that reads, "Obstacle Course Game MAC". If your computer runs Windows, download and uncompress the ZIP file that reads, "Obstacle Course Game WINDOWS". 
 
-2. It may take a few seconds to load, but once it does, the game will imeediately start running. 
+2. To run the MacOS version, clicking the uncompressed file would prompt the game to start. To run the Windows version, click on the .exe version. 
 
-3. Refreshing the tab will restart the game to level one. 
-
-4. Enjoy!
-
+3. Have fun!
 
 
 # How to Download and Make Changes:
